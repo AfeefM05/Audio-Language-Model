@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/ff91f12c-3300-48a7-93b3-85db0e0de5d3
 # Audio Language Model (ALM)
 ### Edge-Native Offline Surveillance & Intelligence System  
 
